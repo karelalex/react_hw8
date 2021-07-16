@@ -1,0 +1,10 @@
+.content {
+    position: absolute;
+    width: 400px;
+    background-color: yellow;
+    border: 2px solid #000;
+    padding: 4px 10px 4px;
+    top: 300px;
+    left: 600px;
+
+}
