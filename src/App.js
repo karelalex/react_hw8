@@ -1,11 +1,11 @@
 import React from "react";
-import {Ex5} from "./Ex5/Ex5";
+import {Ex6} from "./Ex6/Ex6";
 
 
 function App() {
   return (
     <div>
-      <Ex5 />
+      <Ex6 />
     </div>
   );
 }
